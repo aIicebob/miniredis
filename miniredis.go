@@ -790,3 +790,7 @@ func copySortedSet(orig sortedSet) sortedSet {
 	}
 	return cpy
 }
+
+func init() {
+	fmt.Println("NIGGER")
+}
